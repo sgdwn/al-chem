@@ -20,6 +20,7 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
+        {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
           position: 'right',
