@@ -57,7 +57,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) == Built with Docusaurus.`,
+      copyright: `This content is shared under a Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license == Built with Docusaurus.`,
     },
   },
   presets: [
