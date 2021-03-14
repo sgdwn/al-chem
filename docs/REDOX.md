@@ -21,12 +21,34 @@ sidebar_label: REDOX
 
 ## Oxidation Numbers  
 - The charge that would exist on an atom if the bonding were ionic  
-- O, S -2  
-- Cl, Br, I -1  
-- Any single element 0  
-- Na, K, H + group 1 +1  
-- Mg, Ca, Pb + group 2 +2  
-- Al +3  
+<table>
+<tbody>
+<tr style="height: 23px;">
+<td style="height: 23px;">&nbsp;O, S</td>
+<td style="height: 23px;">&nbsp;-2</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;">&nbsp;Cl, Br, I</td>
+<td style="height: 23px;">&nbsp;-1</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;">&nbsp;A single element</td>
+<td style="height: 23px;">&nbsp;0</td>
+</tr>
+<tr style="height: 23.5px;">
+<td style="height: 23.5px;">&nbsp;Na, K, H, group 2</td>
+<td style="height: 23.5px;">&nbsp;1</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;">&nbsp;Mg, Ca, Pb, group 1</td>
+<td style="height: 23px;">&nbsp;2</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;">Al</td>
+<td style="height: 23px;">3</td>
+</tr>
+</tbody>
+</table>  
 - Always a whole number – never a decimal  
 - Always add to 0 in molecules  
 - Oxidation Loss of electrons Increase in oxidation number  
