@@ -5,7 +5,7 @@ sidebar_label: Periodicity
 ---
 
 ## Classification  
-![image](https://user-images.githubusercontent.com/74820599/111063265-7ad23980-84a5-11eb-8677-96a50f17ded9.png)[^1]  
+![image](https://user-images.githubusercontent.com/74820599/111063361-f46a2780-84a5-11eb-9920-153beafa845d.png)[^1]  
 - Elements are classified in either the s, p, d, or f blocks, depending on their location in the periodic table  
 
 ## Physical Properties of Period 3 Elements  
