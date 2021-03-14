@@ -73,3 +73,8 @@ module.exports = {
     ],
   ],
 };
+module.exports = {
+  url: 'https://suspicious-morse-f0ad90.netlify.com', // Url to your site with no trailing slash
+  baseUrl: '/', // Base directory of your site relative to your repo
+  // ...
+};
