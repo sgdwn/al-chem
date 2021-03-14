@@ -21,7 +21,7 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/sgdwn/al-chem/',
           label: 'GitHub',
           position: 'right',
         },
