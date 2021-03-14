@@ -38,13 +38,45 @@ o Represented with arrow - points away from the donor
 ### Molecular  
 - A molecule - may be held to other molecules with van der Waals forces, permanent dipole-dipole forces, or H-bonding  
 
-Forces between Molecules - Intermolecular Forces
-| van der Waals | Come about due to random movement of electrons - causes a slightly positive end and a slightly negative end  Stronger in molecules with higherMr  Present in all  substances | 1 |  
-| Induced dipole-dipole | Where a molecule is polarised by those around it, giving it dipoles while near other atoms | 2 |  
-| Permanent dipole-dipole | Where the electrons are pulled slightly closer to 1 atom, causing a slightly negative end (-) and a slightly positive end (+) | 3 |  
-| Hydrogen bonding | Stronger version of permanent dipole-dipole  Only present when Hydrogen is bonded to Fluorine, Oxygen, or Nitrogen  No. of H-bonds = no. of lone electron pairs or no. of hydrogens (whichever is lower) | 4 |  
+## Forces between Molecules - Intermolecular Forces  
+<table>
+<tbody>
+<tr>
+<td>&nbsp;van Der Waals</td>
+<td>Come about due to random movement of electrons - causes a slightly positive end and a slightly negative end<br />Stronger in molecules with higher Mr<br />Present in all molecular substances&nbsp;</td>
+<td>&nbsp;1</td>
+</tr>
+<tr>
+<td>Induced Dipole-Dipole&nbsp;</td>
+<td>&nbsp;Where a molecule is polarised by those around it, giving it dipoles while near other atoms</td>
+<td>&nbsp;2</td>
+</tr>
+<tr>
+<td>Permanent Dipole-Dipole&nbsp;</td>
+<td>&nbsp;Where the electrons are pulled slightly closer to 1 atom, causing a slightly negative end (-) and a slightly positive end (+)</td>
+<td>&nbsp;3</td>
+</tr>
+<tr>
+<td>Hydrogen Bonding</td>
+<td>&nbsp;Stronger version of permanent dipole-dipole<br />Only present when Hydrogen is bonded to Fluorine, Oxygen, or Nitrogen<br />No. of H-bonds = no. of lone electron pairs or no. of hydrogens (whichever is lower)</td>
+<td>&nbsp;4</td>
+</tr>
+</tbody>
+</table>
 
+## Shapes of Simple Molecules + Ions  
+![image](https://user-images.githubusercontent.com/74820599/111061359-de0a9e80-849a-11eb-891f-33659b242922.png)[^3]  
+Effect of Lone Pairs of Electrons on Bond Angles  
+- Take off 2.5° per lone pair  
 
+## Bond Polarity  
+:::note Electronegativity  
+the power of an atom to attract the pair of electrons in a covalent bond  
+:::  
+- Most electronegative: F, O, N, Cl…  
+(in a semi-diagonal line down towards the bottom left of the periodic table)  
+- Uneven distribution of electrons  
+![image](https://user-images.githubusercontent.com/74820599/111061421-4194cc00-849b-11eb-835a-4071b64d4f1b.png)[^4]  
 
 
 
@@ -53,3 +85,5 @@ Forces between Molecules - Intermolecular Forces
 
 [^1]: OpenStax Chemistry 2e, used under CC-BY license
 [^2]: OpenStax Chemistry 2e, used under CC-BY license
+[^3]: OpenStax Chemistry 2e, used under CC-BY license
+[^4]: OpenStax Chemistry 2e, used under CC-BY license
