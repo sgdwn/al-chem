@@ -1,5 +1,5 @@
 ---
-id: physical-rev
+id: physical-revision
 title: Physical Chemistry Revision
 sidebar_label: Physical Chemistry Revision
 ---
