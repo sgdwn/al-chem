@@ -1,11 +1,11 @@
 module.exports = {
   title: 'A Level Chemistry: iodli',
   tagline: 'A Level Chemistry',
-  url: 'https://alchem.iod.li',
-  baseUrl: '/',
+  url: 'https://sgdwn.github.io',
+  baseUrl: '/al-chem/',
   favicon: 'img/favicon.ico',
-  organizationName: 'iodli', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'sgdwn', // Usually your GitHub org/user name.
+  projectName: 'al-chem', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'A Level Chemistry: iodli',
